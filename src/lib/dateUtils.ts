@@ -83,7 +83,7 @@ export const VALENTINE_DAYS: DayConfig[] = [
 ];
 
 // Testing configuration
-const TESTING_MODE = true; // Set to false for production
+const TESTING_MODE = false; // Set to false for production
 const MOCK_CURRENT_DAY = 1; // Only used when TESTING_MODE = true
 
 export const getDayFromDate = (): number => {
