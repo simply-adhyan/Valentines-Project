@@ -14,73 +14,81 @@ export const VALENTINE_DAYS: DayConfig[] = [
     day: 1,
     title: "Rose Day",
     date: "Feb 7",
-    description: "A day of promises and beautiful beginnings",
+    description: "I still find it strange how we met.",
     color: "text-red-600",
     bgGradient: "from-red-500 to-pink-500",
     visualType: "glow",
-    hiddenText: "Every rose has its own story, and today, you get to write yours.",
+    hiddenText:
+      "A game. A few laughs. Little characters running around. And somehow, that’s where you became my Moon.",
   },
   {
     day: 2,
     title: "Propose Day",
     date: "Feb 8",
-    description: "A day to express your deepest feelings",
+    description: "We were friends first. That mattered to me.",
     color: "text-purple-600",
     bgGradient: "from-purple-500 to-pink-500",
     visualType: "pulse",
-    hiddenText: "The words 'I love you' change everything. Are you ready?",
+    hiddenText:
+      "I didn’t want to lose you — not even as a friend. That’s why I called you my Infinity. And on the 21st of November, I chose you.",
   },
   {
     day: 3,
     title: "Chocolate Day",
     date: "Feb 9",
-    description: "Sweetness shared is happiness doubled",
+    description: "You make everything feel lighter without trying.",
     color: "text-amber-600",
     bgGradient: "from-amber-600 to-orange-500",
     visualType: "shimmer",
-    hiddenText: "Life is like chocolate—meant to be savored, not rushed.",
+    hiddenText:
+      "Conversations last longer with you. Even silence feels comfortable. Nothing feels forced — it just feels right.",
   },
   {
     day: 4,
     title: "Teddy Day",
     date: "Feb 10",
-    description: "Comfort and cuddles all around",
+    description: "It’s always the small things with you.",
     color: "text-pink-600",
     bgGradient: "from-pink-400 to-rose-500",
     visualType: "sway",
-    hiddenText: "Sometimes the best gift is simply being there.",
+    hiddenText:
+      "When you kiss me randomly. When you fall asleep on vc with me there. Those moments stay with me more than you know.",
   },
   {
     day: 5,
     title: "Promise Day",
     date: "Feb 11",
-    description: "Promises that last forever",
+    description: "I won’t promise perfection.",
     color: "text-blue-600",
     bgGradient: "from-blue-500 to-indigo-500",
     visualType: "ripple",
-    hiddenText: "A promise kept is worth more than a thousand words spoken.",
+    hiddenText:
+      "But I promise honesty. Patience. And that I won’t disappear when things get hard. I don’t want to be temporary in your life.",
   },
   {
     day: 6,
     title: "Kiss Day",
     date: "Feb 12",
-    description: "A moment of pure affection",
+    description: "Some moments don’t need words.",
     color: "text-rose-600",
     bgGradient: "from-rose-500 to-red-500",
     visualType: "glow",
-    hiddenText: "In a kiss, two hearts whisper secrets only they can hear.",
+    hiddenText:
+      "Just closeness. Just that quiet feeling where everything else fades. You already know what I mean.",
   },
   {
     day: 7,
-    title: "Valentine's Day",
+    title: "Valentine’s Day",
     date: "Feb 14",
-    description: "The day of love and celebration",
+    description: "This is me choosing you.",
     color: "text-red-700",
     bgGradient: "from-red-600 via-pink-600 to-red-600",
     visualType: "pulse",
-    hiddenText: "Love is not found, it is built—one moment, one choice, one day at a time.",
+    hiddenText:
+      "You’re still my Moon. Still my Infinity. And no matter how things change, I don’t want a life where you’re not part of it.",
   },
 ];
+
 
 // Testing configuration
 const TESTING_MODE = false; // Set to false for production
