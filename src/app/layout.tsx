@@ -38,7 +38,7 @@ export default function RootLayout({
   return (
     <html lang="en" className="scroll-smooth">
       <body
-        className={`${caveat.variable} ${dancingScript.variable} ${indieFlower.variable} antialiased min-h-screen custom-scrollbar font-caveat`}
+        className={`${caveat.variable} ${dancingScript.variable} ${indieFlower.variable} antialiased min-h-screen custom-scrollbar font-sans`}
       >
         {children}
       </body>
